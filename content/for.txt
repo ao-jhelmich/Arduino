@@ -1,0 +1,12 @@
+for loop
+
+de for loop word gebruikt om een bepaald stuikje code heel vaak uit te laten voren, bijvoorbeeld om een lampje 20 keer te laten knipperen.
+
+for (var=0; var <= 20; var++){
+      //uit te voeren code
+} 
+
+var=0; geeft de variabele var een begingetal.
+var <= 20; geeft aan hoevaak de code uitgevoerd moet worden, in dit geval totdat var gelijk is aan 20.
+var++ telt bij elke loop 1 op bij de variabele var.
+in de uit te voeren code zou een stuk code kunnen staan om een lampje een keer aan en uit te zetten. de forloop zorgd er dan voor dat dit 20 keer gedaan word.

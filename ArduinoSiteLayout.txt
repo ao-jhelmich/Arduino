@@ -1,0 +1,35 @@
+Arduino site
+	-menu (sidebar voor alle subonderwerpen)
+		-Kopjes de hoofdstukken - Structuur - Variables - Function
+								- Control s - Contsants	- Digatal i/o
+								- Further s - Data types- Analog ""
+								- operators	- Conversion- Advance i/o
+											- Varablie s- Time
+											- Utilities	- Math
+														- Trigonometry
+														- Characters
+														- Random numbers
+														- Bits and bytes
+														- (External) interrupts
+														- Communication
+
+	-admin page
+		-create page
+			-form die omstebeurt een vraag stelt
+			-bij de category's de vraag: wil je een albestaande gebruiken of een nieuwe aanmaken?
+			-daarna de sub category's zelfde vraag word hier gesteld.
+			-Als de sub category al bestaat laad dan de originele content in
+			-als de sub category origineel is laad dan een lege text area in voor de content
+
+	-database
+		-admin account 	- images 	- category	- subcategory
+		-id		 		- id		- id		- id
+		-username		- images	- Name    	- name 
+		-password								- subcategory_id
+		-credentials				
+
+
+	-page
+		-category 
+			-subcategory
+				-content

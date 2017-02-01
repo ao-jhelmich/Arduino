@@ -1,0 +1,23 @@
+Het toewijzen van variables werkt in C met het eenmalige = teken.
+
+Bijvoorbeeld:
+ We maken eerst een variable aan door hem te declaren.
+ 
+ int age;
+
+ We hebben nu een int genaamd age.
+ Om age nu iets toe te wijzen maken wij gebruik van het = teken.
+ Dit ziet er als volgt uit.
+
+ age = 17;
+ 
+ age staat nu gelijk aan 17. Als wij age nu zouden uitlezen of gebruiken in een If statement dan zou het er zo uitzien.
+ 
+ if(age > 18){
+   // gaan we hierin?
+ } 
+ // of gaat de code door?
+
+ hier stellen we dus de vraag is AGE groter dan 18. Eigenlijk staat hier is 17 groter dan 18.
+
+Zo kunnen we dus informatie toewijzen aan een variable.

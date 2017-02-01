@@ -1,0 +1,21 @@
+If is niks meer dan een check. Het check of een conditie waar is en zo ja dan word er wat uitgevoerd.
+
+Hier een voorbeeld:
+ if(8 == 8){
+  //Dit is wat het uitvoert
+}
+  //als het niet true is gaat die hierheen
+
+in deze if vergelijkt hij 8 met 8. En 8 is inderdaad gelijk tot 8 dus hij gaat naar binnen het if'je.
+Stel nou we hadden 4 met 8 vergeleken dan ging die door met de volgende regel.
+
+In een if kunnen we meerdere dingen gebruiken om een conditie te checken.
+Ookwel de Comparison operators genoemd.
+ x == y (x is gelijk aan y)
+ x != y (x is niet gelijk aan y)
+ x <  y (x is kleiner dan y)  
+ x >  y (x is groter dan y) 
+ x <= y (x is kleiner dan of gelijk aan y) 
+ x >= y (x is groter dan of gelijk aan y)
+
+hiermee kunnen wij dus op verschillende wijze variables checken een daarmee de conditie aanpassen.

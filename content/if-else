@@ -1,0 +1,17 @@
+else en else if zijn uitbrijdingen van de if
+je kunt bij verschillende voorwaardes verschillende dingen uitvoeren.
+
+if (var == 1){
+	//uit te voeren code
+} else if (var == 2) {
+	//uit te voeren code
+} else {
+	//uit te voeren code
+}
+
+als var 1 is dan voert hij de code bij if uit
+als var 2 is dan voert hij de code bij else if uit
+als var geen van bijde is dan voert hij de code bij de els uit
+
+je kunt soveelmogenlijk else if's erin zetten als je wilt.
+

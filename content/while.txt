@@ -1,0 +1,12 @@
+while loops
+
+een while loop is een stukje code dat telkens word uitgevoerd totdat de voorwaarde in de haakjes niet meer correct is. je kunt het vergelijken met een for loop. maar bij een forloop geef je aan hoevaak de code moet uitvoeren en bij een whileloop kun je de code laaten uitvoeren totdat er bijvoorbeeld op een knop word geklikt.
+
+var = 0;
+while (var <20) {
+  // uit te voeren code
+}
+
+var = 0; geeft de variable var de waarde 0.
+de voorwaarde die in deze whileloop word gesteld betekent dat deze code uitgevoerd moet worden zolang var kleiner is dan 20.
+hiermee kun je bevoorbeeld een stukje code laten uitvoeren totdat je 20 keer op een knop hebt geklikt die telkens 1 bij var optelt.

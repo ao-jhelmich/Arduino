@@ -1,0 +1,23 @@
+met een switch kun je het zelfde als met een if statement
+elke case word vergeleken met de variabele
+
+switch (var){
+	case 1:
+		//uit te voeren code
+		break;
+	case 2:
+		//uit te voeren code
+		break;
+	default:
+		//uit te voeren code
+		break;
+}
+
+var is de variabele waarmee iedere case word vergeleken
+case 1 betekent, als var gelijk is aan 1 voer de code uit
+case 2 betekent, als var gelijk is aan 2 voer de code uit
+default is wat er gedaan moet worden als de variabelen niet overeenkomt met een van de cases. default is optioneel als je het weglaat dan gebeurt er niks.
+<<<<<<< HEAD
+
+=======
+>>>>>>> refs/remotes/origin/master

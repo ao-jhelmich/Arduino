@@ -1,0 +1,8 @@
+het teken ; is een afsluiting. Zie het als het einde van een zin.
+
+Bijvoorbeeld: hier benoemen wij een variable,
+ 
+ x = 10;
+
+hier zeggen wij dat x gelijk is aan tien dus x is nu 10, wij sluiten het ook af met de semicolom (;).
+Dit is om de code te laten weten dat de regel hier afloopt en dat die de volgende mag lezen.

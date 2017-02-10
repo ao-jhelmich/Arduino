@@ -7,7 +7,7 @@ class ArduinoController extends Controller
         $id = Request::post('subject_id');
         ArduinoModel::softDelete($id);
         if (empty($var)) {
-            Redirect::to('Arduino/admin');
+            Redirect::to('admin/index');
         }else{
             Redirect::to('Arduino/read/' . $var);
         }
@@ -67,6 +67,6 @@ class ArduinoController extends Controller
     {
         $id = Request::post('subject_id');
         ArduinoModel::putBackSoftDelete($id);
-        Redirect::to('Arduino/admin');
+        Redirect::to("admin/index");
     }
 }
